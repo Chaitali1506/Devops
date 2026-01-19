@@ -17,4 +17,57 @@ apt update          : Update package list
 apt upgrade         : Upgrade packages
 apt install <pkg>   : Install package
 apt remove <pkg>    : Remove package
+----------------------------------------------------
+5. PROCESS MANAGEMENT
+----------------------------------------------------
+
+ps                  : Running processes
+ps -ef              : Detailed process list
+top                 : Live process monitor
+kill <pid>          : Kill process
+df -h               : Disk usage
+free -m             : Memory usage
+
+
+----------------------------------------------------
+6. GIT BASICS
+----------------------------------------------------
+
+git --version               : Check git version
+git init                    : Initialize repository
+git status                  : Repo status
+git add <file>              : Stage file
+git add .                   : Stage all files
+git commit -m "message"     : Commit changes
+git log                     : Commit history
+git branch                  : Show branches
+git checkout <branch>       : Switch branch
+
+
+----------------------------------------------------
+7. GITHUB COMMANDS
+----------------------------------------------------
+
+git remote add origin <url> : Add remote repo
+git push origin master      : Push code
+git pull origin master      : Pull code
+git clone <url>             : Clone repo
+
+
+----------------------------------------------------
+8. DEVOPS TOOLS (BASICS)
+----------------------------------------------------
+
+CI/CD        : Continuous Integration / Deployment
+Jenkins      : Automation server
+Docker       : Container platform
+Kubernetes   : Container orchestration
+Ansible      : Configuration management
+Terraform    : Infrastructure as code
+AWS          : Cloud provider
+
+
+----------------------------------------------------
+END OF DEVOPS PRACTICE FILE
+----------------------------------------------------
 
