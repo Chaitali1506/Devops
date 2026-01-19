@@ -1,0 +1,20 @@
+3. USER MANAGEMENT
+----------------------------------------------------
+
+whoami              : Current user
+who                 : Logged-in users
+adduser <user>      : Create user
+passwd <user>       : Set password
+su <user>           : Switch user
+exit                : Logout user
+
+
+----------------------------------------------------
+4. PACKAGE MANAGEMENT
+----------------------------------------------------
+
+apt update          : Update package list
+apt upgrade         : Upgrade packages
+apt install <pkg>   : Install package
+apt remove <pkg>    : Remove package
+
