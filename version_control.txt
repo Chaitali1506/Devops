@@ -1,0 +1,7 @@
+1 Version control, also known as source control, is the practice of tracking 
+and managing changes to software code. 
+2 Version control software keeps track of every modification to the code 
+in a special kind of database. 
+3 Version control tracks every developer change and helps prevent 
+concurrent work from conflicting 
+
